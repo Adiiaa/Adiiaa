@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a software developer 
 - 🌱 I’m currently learning Software development
 - 💞️ I’m looking to collaborate with some fellow students who are also learning this 
-- 📫 How to reach me via email: adia.uwase060@gmail.com
+- 📫 You can reach me via email: adia.uwase060@gmail.com
 
 
 <!---
